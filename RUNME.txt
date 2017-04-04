@@ -1,0 +1,5 @@
+To build: mvn clean install
+To run: java -jar /pathToJar/jarName.jar sourceFolder outputFileName
+To run units: mvn test
+
+Requires Java 8 to run.
